@@ -20,8 +20,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: [https://github.com/Roman-oryol/social-links-profile](https://github.com/Roman-oryol/social-links-profile)
-- Live Site URL: [https://ro-social-links-profile.netlify.app/](https://ro-social-links-profile.netlify.app/)
+- Solution URL: [https://github.com/Roman-oryol/product-preview-card](https://github.com/Roman-oryol/product-preview-card)
+- Live Site URL: [https://ro-product-preview-card.netlify.app/](https://ro-product-preview-card.netlify.app/)
 
 ## My process
 
